@@ -1,0 +1,17 @@
+{
+  "formatVersion": 1,
+  "engine": {
+    "jdk": {
+      "version": "jdk-164f9987ddb9",
+      "file": "jdk.zip",
+      "sha256": "164f9987ddb94444a3d179e338bd7866c40849b80882cc56f23e80926763cc9e",
+      "size": 439981203
+    },
+    "client": {
+      "version": "client-20260923144751",
+      "file": "client.zip",
+      "sha256": "bba1a262fd6f4afcd18ba56f47f446bd704c13639855a25a4b0eea76e070ac51",
+      "size": 82930023
+    }
+  }
+}
